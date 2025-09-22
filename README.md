@@ -16,7 +16,7 @@
 - 📚 Belajar sains & matematika mendalam
 - 📖 Membaca komik 
 
-## 🔹 Apa yang sedang dipelajari
+## 🔹 Apa yang Sedang Saya Pelajari
 - Bahasa Pemrograman: Python, C (basic)  
 - Tools: Git & GitHub, Excel  
 
