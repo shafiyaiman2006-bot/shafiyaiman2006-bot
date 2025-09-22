@@ -1,16 +1,20 @@
-## Hi there 👋
+# Halo 👋, saya Shafiya Iman
 
-<!--
-**shafiyaiman2006-bot/shafiyaiman2006-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 Tentang Saya
+- 🎓 Mahasiswa tahun pertama Geofisika UGM  
+- 💻 Sedang belajar Python, Git, dan GIS  
+- 🌱 Tertarik pada Energi Terbarukan & Data Science  
+- 🌍 Asal Riau, Indonesia  
 
-Here are some ideas to get you started:
+## 🔹 Apa yang Sedang Saya Kerjakan
+- Praktikum Geologi Dasar & Metode Komputasi  
+- Laporan & coding tugas kuliah dengan Python  
+- Aktif di organisasi: BEM FMIPA, HMGF, SRE UGM  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Hobi
+- 🏎️ Menonton Formula 1 (fans Lewis Hamilton)  
+- ☕ Eksplorasi kopi & sustainability  
+- 📚 Belajar sains & matematika mendalam  
+
+⭐ Dari [shafiyaiman2006-bot](https://github.com/shafiyaiman2006-bot)
+
